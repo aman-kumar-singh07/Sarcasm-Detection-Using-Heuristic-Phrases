@@ -1,6 +1,7 @@
-This is a extention of Yelp Business Reviews 
+This is a extention of Yelp Business Reviews I have myself scrolled  through 100 reviews in Yelp dataset  and found Textblob is ineffective in Judging polarity of Sarcastic reviews.
 What I am doing?
-I am solving one of  the most challenging problems that we face in sentiment analyses of  customer reviews i.e, Sarcastic reviews. 
+I am solving one of  the most challenging problems that we face in sentiment analyses of  customer reviews i.e, Sarcastic reviews. This thing is inspired by Amazon Customer Reviews (Generative AI)
+which amazon has recently incorporated into it's app.
 
 How I am doing it?
 1. TextBlob Analysis (Emotional Tone)
