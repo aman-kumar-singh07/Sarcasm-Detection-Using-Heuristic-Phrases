@@ -15,12 +15,12 @@ You’ve created 3 key rules to “catch” sarcasm:
 The 3 Sarcasm Detection Traps:
 1. Conflict Between Positive and Negative Words
 Checks if both positive cues (like love, great) and negative cues (not, never, food poisoning, nothing) exist in the same sentence.
-If yes → sarcasm_score += 1 ✅
+If yes → sarcasm_score += 1 
 
 2. Use of Sarcastic Tone Markers (Emojis & Punctuation)
 Catches sarcastic flair like:
 !!!, 🙄, 😒, lol, wow, ...
-If found → sarcasm_score += 1 ✅
+If found → sarcasm_score += 1 
 
 3. Specific Trigger Words (Dark Humour Examples)
 Looks for phrases that are clearly bad but appear in “positive sentences”, like:
